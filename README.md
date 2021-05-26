@@ -13,7 +13,7 @@ This application allows you to create a professional README.md by using node ind
 * [Contributing](#contributing)
 * [Questions](#questions)
 
-# Installation
+# ⌨️ Installation
 Installation:
 Download node index.js and inquirer package.
 
@@ -25,14 +25,14 @@ You use this application by using node index.js in your command line. You are th
 This project is licensed under the The MIT License license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Tools used
+# 🛠️ Tools used
 Tools used:node index.js, inquirer and util.
 
-# Contributing
+# 🏘️ Contributing
 ​Contributors: 
 Katherine Yoguez
 
-# Video
+# 📷 Video
 
 [Live video Demo](https://youtu.be/cwGBpcyf2bY)
 

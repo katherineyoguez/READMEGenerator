@@ -97,7 +97,7 @@ ${data.Description}
 * [Contributing](#contributing)
 * [Questions](#questions)
 
-# Installation
+# ⌨️ Installation
 Installation:
 ${data.Installation}
 
@@ -109,10 +109,10 @@ ${data.Usage}
 This project is licensed under the ${data.License} license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Tools used
+# 🛠️ Tools used
 Tools used:${data.Tools}
 
-# Contributing
+# 🏘️ Contributing
 ​Contributors: 
 ${data.Contributing}
 
